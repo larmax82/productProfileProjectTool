@@ -7,7 +7,6 @@ Our product provides a unified user experience that seamlessly integrates differ
 The platform serves as a central hub for both Project Managers and Technical Project Managers, eliminating fragmented information sources and reducing cognitive overload. By creating a cohesive experience across project management functions, our solution enables teams to focus on complex problem-solving rather than administrative tasks, ultimately improving project delivery efficiency and quality.
 
 ## 2. Target Users/Audience
-*[Complete information available from [target_users_completed.md](target_users_completed.md)]*
 
 ### Team Composition
 - Approximately 50 Project Managers and 50 Technical Project Managers
