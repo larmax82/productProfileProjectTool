@@ -107,7 +107,7 @@ The platform serves as a central hub for both Project Managers and Technical Pro
 - Facilitate asynchronous collaboration without constant meetings
 
 ## 4. Key Features & Functionality
-*[Needs additional information about [SideSlide Chrome Extension](sideslide_chrome_extension.md)]*
+*[Needs additional information about [SideSlide Chrome Extension](sideslide_features.md)]*
 
 **Initial recommendations based on pain points and goals:**
 
