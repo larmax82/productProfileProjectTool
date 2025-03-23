@@ -7,7 +7,7 @@ Our product provides a unified user experience that seamlessly integrates differ
 The platform serves as a central hub for both Project Managers and Technical Project Managers, eliminating fragmented information sources and reducing cognitive overload. By creating a cohesive experience across project management functions, our solution enables teams to focus on complex problem-solving rather than administrative tasks, ultimately improving project delivery efficiency and quality.
 
 ## 2. Target Users/Audience
-*[Complete information available from target_users_completed.md]*
+*[Complete information available from [target_users_completed.md](target_users_completed.md)]*
 
 ### Industry Context
 - IT project implementation and delivery for a transportation platform
@@ -58,7 +58,7 @@ The platform serves as a central hub for both Project Managers and Technical Pro
 - Custom internal tools for specific processes
 
 ## 3. User Pain Points & Goals
-*[Complete information available from user_pain_points_and_goals.md]*
+*[Complete information available from [user_pain_points_and_goals.md](user_pain_points_and_goals.md)]*
 
 ### Pain Points
 
@@ -114,7 +114,7 @@ The platform serves as a central hub for both Project Managers and Technical Pro
 - Facilitate asynchronous collaboration without constant meetings
 
 ## 4. Key Features & Functionality
-*[Needs additional information about SideSlide Chrome Extension]*
+*[Needs additional information about [SideSlide Chrome Extension](sideslide_chrome_extension.md)]*
 
 **Initial recommendations based on pain points and goals:**
 
@@ -138,8 +138,6 @@ To measure the achievement of our product vision, we will track the following co
 ### Efficiency Metrics
 - **Context Switching Reduction:** 40% decrease in time spent switching between tools and applications
 - **Information Retrieval Efficiency:** 50% reduction in time spent searching for relevant information and examples
-
-
 
 
 ### User Adoption & Engagement
