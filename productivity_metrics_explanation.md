@@ -71,8 +71,3 @@ These productivity improvements translate to significant business benefits:
 - **Accelerated project delivery**: More time for actual project tasks means faster completion
 - **Knowledge democratization**: Reduced dependency on specific individuals for information
 
-## ROI Calculation
-
-With an average fully-loaded cost of $60/hour for PMs and TPMs:
-- 1,800 hours saved monthly × $60 = $108,000 monthly productivity value
-- $1,296,000 annual productivity improvement
