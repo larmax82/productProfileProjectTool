@@ -1,6 +1,6 @@
-#s Product Profile: Project Management Tool
+# Product Profile: Project Management Tool
 
-This repository contains product development materials for a unified project management tool designed specifically for transportation logistics professionals.
+This repository contains product development materials for a unified project management tool designed specifically for PS team.
 
 ## Project Overview
 
