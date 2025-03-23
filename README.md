@@ -10,7 +10,6 @@ The product provides a unified user experience that seamlessly integrates differ
 ## Main Documentation
 
 - [`product-profile.md`](product-profile.md) - Core product profile document
-- [`target_users_completed.md`](target_users_completed.md) - Detailed analysis of target users
 - [`user_pain_points_and_goals.md`](user_pain_points_and_goals.md) - Documentation of user pain points and goals
 - [`sideslide-features.md`](sideslide-features.md) - Features of the SideSlide Chrome Extension component 
 - [`net_promoter_score_explanation.md`](net_promoter_score_explanation.md) - Explanation of NPS metrics 
