@@ -52,7 +52,6 @@ The platform serves as a central hub for both Project Managers and Technical Pro
 - Custom internal tools for specific processes
 
 ## 3. User Pain Points & Goals
-*[Complete information available from [user_pain_points_and_goals.md](user_pain_points_and_goals.md)]*
 
 ### Pain Points
 
