@@ -2,7 +2,7 @@
 
 ## 1. Product Vision & Summary
 
-Our product provides a unified user experience that seamlessly integrates different aspects of work for the Professional Services department in the transportation logistics industry. This comprehensive tool simplifies workflows, automates routine processes, leverages AI capabilities, and facilitates expertise and knowledge sharing within the organization.
+Our product provides a unified user experience that seamlessly integrates different aspects of work for the Professional Services department in Transporeon. This comprehensive tool simplifies workflows, automates routine processes, leverages AI capabilities, and facilitates expertise and knowledge sharing within the organization.
 
 The platform serves as a central hub for both Project Managers and Technical Project Managers, eliminating fragmented information sources and reducing cognitive overload. By creating a cohesive experience across project management functions, our solution enables teams to focus on complex problem-solving rather than administrative tasks, ultimately improving project delivery efficiency and quality.
 
