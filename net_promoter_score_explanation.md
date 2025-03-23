@@ -1,4 +1,5 @@
 # Net Promoter Score (NPS) Explanation
+([back to product profile](product-profile.md))
 
 ## What is Net Promoter Score?
 Net Promoter Score (NPS) is a widely used customer experience metric that measures user loyalty and satisfaction. It's based on a single question:

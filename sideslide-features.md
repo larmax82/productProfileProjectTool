@@ -1,4 +1,5 @@
 # 4. Key Features & Functionality: SideSlide Chrome Extension
+([back to product profile](product-profile.md))
 
 ## Core Concept
 SideSlide is a Chrome extension that adds a customizable sliding panel to any webpage, providing a consistent workspace that follows users across all web-based tools. The panel slides in from the right side of the screen when triggered by the extension icon or keyboard shortcut, eliminating the need for constant tab switching.
