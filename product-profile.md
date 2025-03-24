@@ -1,17 +1,25 @@
-# Product Profile: Project Management Tool
+# Product Profile: SideSlide Chrome extention
+
+# Idea: Unified Tool with AI capabilites for PMs and TPMs in Professional Services
+
+While exploring various ways to implement several OKR ideas and integrate AI into the daily workflow, I observed that most of the tools currently used by PM and TPM are web-based, including Jira for project and task management, Google Drive for storing project-related files, Google Docs for system creation, Google Sheets for effort estimation, and Notion as the main documentation base. Additionally, all users utilize Google Chrome as their primary browser.
+
+This led me to the idea of creating "SideSlide." SideSlide is a Chrome extension that adds a customizable sliding panel to any webpage. The panel slides in from the right side of the screen when users click the extension icon or use a key combination, providing a consistent interface across all websites. This extension addresses the problem of context switching between tabs by offering users additional workspace without disrupting their browsing experience.
+
+This document describes initial set of ideas, features that could be included in the product as well as the chain of thoughts describing persona and daily challenges persona faces.
 
 ## 1. Product Vision & Summary
 
-Our product provides a unified user experience that seamlessly integrates different aspects of work for the Professional Services department in Transporeon. This comprehensive tool simplifies workflows, automates routine processes, leverages AI capabilities, and facilitates expertise and knowledge sharing within the organization.
+## Product Vision
 
-The platform serves as a central hub for both Project Managers and Technical Project Managers, eliminating fragmented information sources and reducing cognitive overload. By creating a cohesive experience across project management functions, our solution enables teams to focus on complex problem-solving rather than administrative tasks, ultimately improving project delivery efficiency and quality.
+SideSlide transforms how Professional Services teams manage projects by creating a cohesive experience that eliminates information fragmentation, preserves critical context, automates repetitive tasks, and builds institutional knowledge. By reducing cognitive load and administrative burden, it enables teams to deliver projects with unprecedented efficiency—reducing context switching by 40% and information retrieval time by 50%
 
-## 2. Target Users/Audience
+## 2. Target Persona
 
 ### Team Composition
 - Approximately 50 Project Managers and 50 Technical Project Managers
-- Cross-functional teams including developers, QA specialists, business analysts, sales
-- Collaboration with external stakeholders (customers from shipper and carrier industries)
+- Cross-functional teams including developers, QA specialists, business analysts, sales, Customer care
+
 
 ### Primary User Roles
 
@@ -55,14 +63,8 @@ The platform serves as a central hub for both Project Managers and Technical Pro
 
 ### Pain Points
 
-
-#### Tracking and Documentation Challenges
-- Difficulty documenting thought processes transparently
-- Struggle to communicate reasoning steps to team members or stakeholders
-- Lost context when returning to complex problems after time away
-- Time-consuming research process to find similar examples of system specifications, customer configurations, or codebase solutions
-
 #### Information Fragmentation
+- Time-consuming research process to find similar examples of system specifications, customer configurations, or codebase solutions
 - Struggle to maintain context across multiple information sources related to projects
 - Documentation scattered across different platforms (Notion, Google Drive, Jira)
 - Mental effort required to synthesize related information from disparate systems
@@ -112,11 +114,12 @@ SideSlide is a Chrome extension that adds a customizable sliding panel to any we
 ## Primary Features
 
 ### 1. Project Management Hub
+Jira is a great solution for project management because it offers robust features for tracking tasks, managing workflows, and collaborating with team members. Its customizable dashboards, agile boards, and extensive integration capabilities with other tools make it highly adaptable to various project needs. But still a lot of proceses are manual and time consuming. Several problems could be solved with SideSlide and Jira API:
 
 #### 1.1. New Project
 - Automatically detects when users are viewing a Jira project page
 - One-click "Subscribe" button to add projects to personal workspace
-- Role-based information fetching via Jira API (using Jira REST API to retrieve project metadata, issue data, and user permissions)
+- Role-based information fetching via Jira API (using Jira REST API to retrieve project metadata, issue data, and task dates and deadlines)
 - Notification of new project assignments with quick-subscribe option (leveraging Jira webhooks and API)
 
 #### 1.2. Overview
@@ -134,8 +137,8 @@ SideSlide is a Chrome extension that adds a customizable sliding panel to any we
   
 - **Plan Implementation**:
   - One-click deployment of plans to Jira after approval
-  - Automatic task creation and assignment via Jira API (using Jira issue creation endpoints to generate epics, stories, and tasks with proper relationships)
-  - Notification system for plan approvals and changes (integrating with Jira workflow transitions API)
+  - Automatic task update via Jira API (using Jira update endpoints for tasks with proper relationships)
+
 
 #### 1.4. Document Manager
 - **Context-Aware Document Linking**:
